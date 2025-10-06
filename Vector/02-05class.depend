@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1738945974 source:c:\users\jack fontenot\documents\3334\02-05class\main.cpp
+	<iostream>
+	"Vector.h"
+
+1739476855 c:\users\jack fontenot\documents\3334\02-05class\vector.h
+	"ContainerInterface.h"
+	<cstring>
+	<stdexcept>
+
+1738774557 c:\users\jack fontenot\documents\3334\02-05class\containerinterface.h
+
