@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1740588241 source:c:\users\jack fontenot\documents\3334\02-26-class\main.cpp
+	<iostream>
+	"hashfunctions.cpp"
+
+1740588322 c:\users\jack fontenot\documents\3334\02-26-class\hashfunctions.cpp
+	<string>
+	<functional>
+

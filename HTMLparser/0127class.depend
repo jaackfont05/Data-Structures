@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1738558108 source:c:\users\jack fontenot\documents\3334\0127class\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cassert>
+	<stack>
+
