@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1740369021 source:c:\users\jack fontenot\documents\3334\02-07class\main.cpp
+	<iostream>
+	"List.h"
+
+1740374159 c:\users\jack fontenot\documents\3334\02-07class\list.h
+	"ContainerInterface.h"
+
+1738945256 c:\users\jack fontenot\documents\3334\02-07class\containerinterface.h
+
